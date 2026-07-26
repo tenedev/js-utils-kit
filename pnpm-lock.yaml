@@ -10,8 +10,8 @@ catalogs:
       specifier: ^7.0.1
       version: 7.0.1
     figlet:
-      specifier: ^1.11.0
-      version: 1.11.0
+      specifier: ^1.11.3
+      version: 1.11.3
 
 importers:
   .:
@@ -21,7 +21,7 @@ importers:
         version: 7.0.1
       figlet:
         specifier: 'catalog:'
-        version: 1.11.0
+        version: 1.11.3
     devDependencies:
       '@biomejs/biome':
         specifier: ^2.4.13
@@ -251,7 +251,7 @@ importers:
         version: link:../@js-utils-kit/env
       figlet:
         specifier: 'catalog:'
-        version: 1.11.0
+        version: 1.11.3
 
   packages/juk-web: {}
 
@@ -1936,10 +1936,10 @@ packages:
       picomatch:
         optional: true
 
-  figlet@1.11.0:
+  figlet@1.11.3:
     resolution:
       {
-        integrity: sha512-EEx3OS/l2bFqcUNN2NM9FPJp8vAMrgbCxsbl2hbcJNNxOEwVe3mEzrhan7TbJQViZa8mMqhihlbCaqD+LyYKTQ==,
+        integrity: sha512-7+OS4S6VjQXI2XRvfZlOdHhItd25lI0NgrR1j5UHfuyZfmMh44v65tMQUlb2bSriYGPCHAtGhuY5u23vqelvmg==,
       }
     engines: { node: '>= 17.0.0' }
     hasBin: true
@@ -4491,7 +4491,7 @@ snapshots:
     optionalDependencies:
       picomatch: 4.0.4
 
-  figlet@1.11.0:
+  figlet@1.11.3:
     dependencies:
       commander: 14.0.3
 
