@@ -90,7 +90,7 @@ importers:
         specifier: ^28.0.0
         version: 28.0.0
       tsdown:
-        specifier: ^0.22.13
+        specifier: ^0.22.14
         version: 0.22.14(typescript@6.0.2)
       turbo:
         specifier: ^2.8.16
