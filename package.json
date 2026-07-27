@@ -65,7 +65,7 @@
     "@tenedev/tsconfig": "^1.0.0",
     "@types/archiver": "^7.0.0",
     "@types/figlet": "^1.7.0",
-    "@types/node": "^25.5.0",
+    "@types/node": "^25.9.5",
     "@vitest/coverage-v8": "^4.1.10",
     "gray-matter": "^4.0.3",
     "happy-dom": "^20.8.9",
