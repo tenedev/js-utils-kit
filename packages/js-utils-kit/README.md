@@ -1,6 +1,6 @@
 # js-utils-kit
 
-> _Modular JavaScript utilities with type-safe_
+> _Modular JavaScript utilities with type-safe APIs_
 
 [![npm version](https://img.shields.io/npm/v/js-utils-kit.svg?logo=npm&color=brightgreen)](https://www.npmjs.com/package/js-utils-kit)
 [![Downloads](https://img.shields.io/npm/dt/js-utils-kit?logo=npm)](https://www.npmjs.com/package/js-utils-kit)
