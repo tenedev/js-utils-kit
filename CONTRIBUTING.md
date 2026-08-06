@@ -1,6 +1,6 @@
 # Contributing to JS Utils Kit
 
-Thank you for your interest in contributing to **JS Utils Kit** 🎉. 
+Thank you for your interest in contributing to **JS Utils Kit** 🎉.
 
 This project is a **pnpm monorepo powered by Turbo**, and we welcome improvements across utilities, tooling, documentation, and performance.
 
@@ -231,7 +231,7 @@ If you are contributing a new package:
 
 This project enforces:
 
-- Biome 
+- Biome
 - TypeScript strict mode
 - Clean public exports
 - Dual ESM + CJS compatibility

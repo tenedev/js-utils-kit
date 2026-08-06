@@ -19,7 +19,7 @@ pnpm add juk-web
 ### Package Managers
 
 ```js
-import { isBrowser } from "juk-web";
+import { isBrowser } from 'juk-web';
 
 console.log(isBrowser);
 ```
@@ -28,7 +28,7 @@ console.log(isBrowser);
 
 ```html
 <script type="module">
-  import { isBrowser } from "https://esm.sh/juk-web@0";
+  import { isBrowser } from 'https://esm.sh/juk-web@0';
 
   console.log(isBrowser);
 </script>

@@ -24,16 +24,19 @@ const allowedKeys = [
   'type',
 ];
 
-function buildPackageJson(name, description,displayName) {
+function buildPackageJson(name, description, displayName) {
   const pkg = {};
 
   pkg.name = `@js-utils-kit/${name}`;
-  pkg.displayName=displayName
+  pkg.displayName = displayName;
   pkg.version = '0.0.0';
   pkg.description = description;
   pkg.private = false;
   for (const key of allowedKeys) {
-    if (rootPkg[key]) pkg[key] = structuredClone(key === "homepage" ? `${rootPkg[key]}/modules/${displayName}` : rootPkg[key]);
+    if (rootPkg[key])
+      pkg[key] = structuredClone(
+        key === 'homepage' ? `${rootPkg[key]}/modules/${displayName}` : rootPkg[key],
+      );
   }
   pkg.main = './dist/index.cjs';
   pkg.module = './dist/index.mjs';
@@ -86,7 +89,7 @@ async function createLibrary() {
 
   exitOnCancel(description);
 
-    const displayName = await text({
+  const displayName = await text({
     message: 'Enter the display name',
     placeholder: 'e.g. Array',
     validate: (value) => {
@@ -104,7 +107,8 @@ async function createLibrary() {
 
   writeFileSync(
     join(folder, 'package.json'),
-    JSON.stringify(buildPackageJson(name.trim(), description.trim(), displayName.trim()), null, 2) + EOL,
+    JSON.stringify(buildPackageJson(name.trim(), description.trim(), displayName.trim()), null, 2) +
+      EOL,
   );
 
   writeFileSync(
