@@ -264,6 +264,7 @@ const collectExports = (project) => {
         deprecated,
         filePath: rel(f.getFilePath()),
         line: d.getStartLineNumber(),
+        sourceUrl: `https://github.com/tenedev/js-utils-kit/blob/main/${rel(f.getFilePath())}#L${d.getStartLineNumber()}`,
       });
 
       stats.totalExports++;
