@@ -463,7 +463,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/juk-web/src/checks.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/juk-web/src/checks.ts#L16"
       }
     ],
     "@js-utils-kit/array": [
@@ -473,7 +474,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/array/src/chunk.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/array/src/chunk.ts#L15"
       },
       {
         "name": "compact",
@@ -481,7 +483,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/array/src/compact.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/array/src/compact.ts#L19"
       },
       {
         "name": "lastElement",
@@ -489,7 +492,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/array/src/lastElement.ts",
-        "line": 13
+        "line": 13,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/array/src/lastElement.ts#L13"
       },
       {
         "name": "sum",
@@ -497,7 +501,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/array/src/sum.ts",
-        "line": 52
+        "line": 52,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/array/src/sum.ts#L52"
       },
       {
         "name": "unique",
@@ -505,7 +510,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/array/src/unique.ts",
-        "line": 31
+        "line": 31,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/array/src/unique.ts#L31"
       }
     ],
     "@js-utils-kit/charset": [
@@ -515,7 +521,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/charset/src/alphanumeric.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/charset/src/alphanumeric.ts#L15"
       },
       {
         "name": "digits",
@@ -523,7 +530,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/charset/src/digits.ts",
-        "line": 11
+        "line": 11,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/charset/src/digits.ts#L11"
       },
       {
         "name": "lowercase",
@@ -531,7 +539,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/charset/src/lowercase.ts",
-        "line": 11
+        "line": 11,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/charset/src/lowercase.ts#L11"
       },
       {
         "name": "uppercase",
@@ -539,7 +548,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/charset/src/uppercase.ts",
-        "line": 11
+        "line": 11,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/charset/src/uppercase.ts#L11"
       }
     ],
     "@js-utils-kit/constants": [
@@ -549,7 +559,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/charset.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/charset.ts#L4"
       },
       {
         "name": "UPPERCASE_ALPHABET",
@@ -557,7 +568,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/charset.ts",
-        "line": 9
+        "line": 9,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/charset.ts#L9"
       },
       {
         "name": "DIGITS",
@@ -565,7 +577,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/charset.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/charset.ts#L14"
       },
       {
         "name": "ALPHANUMERIC",
@@ -573,7 +586,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/charset.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/charset.ts#L19"
       },
       {
         "name": "HTTP_METHODS",
@@ -581,7 +595,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/http.ts",
-        "line": 6
+        "line": 6,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/http.ts#L6"
       },
       {
         "name": "HTTP_STATUS",
@@ -589,7 +604,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/http.ts",
-        "line": 26
+        "line": 26,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/http.ts#L26"
       },
       {
         "name": "PI",
@@ -597,7 +613,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L4"
       },
       {
         "name": "TAU",
@@ -605,7 +622,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 9
+        "line": 9,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L9"
       },
       {
         "name": "E",
@@ -613,7 +631,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L14"
       },
       {
         "name": "SQRT_2",
@@ -621,7 +640,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L19"
       },
       {
         "name": "SQRT_1_2",
@@ -629,7 +649,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 24
+        "line": 24,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L24"
       },
       {
         "name": "LN_2",
@@ -637,7 +658,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 31
+        "line": 31,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L31"
       },
       {
         "name": "LN_10",
@@ -645,7 +667,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 38
+        "line": 38,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L38"
       },
       {
         "name": "LOG2_E",
@@ -653,7 +676,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 45
+        "line": 45,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L45"
       },
       {
         "name": "LOG10_E",
@@ -661,7 +685,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/math.ts",
-        "line": 54
+        "line": 54,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/math.ts#L54"
       },
       {
         "name": "NODE_BUILTIN_MODULES",
@@ -669,7 +694,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/node.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/node.ts#L12"
       },
       {
         "name": "NodeBuiltinModule",
@@ -677,7 +703,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/node.ts",
-        "line": 90
+        "line": 90,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/node.ts#L90"
       },
       {
         "name": "MAX_SAFE_INT",
@@ -685,7 +712,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L4"
       },
       {
         "name": "MIN_SAFE_INT",
@@ -693,7 +721,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 9
+        "line": 9,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L9"
       },
       {
         "name": "MAX_VALUE",
@@ -701,7 +730,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L14"
       },
       {
         "name": "MIN_VALUE",
@@ -709,7 +739,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L19"
       },
       {
         "name": "EPSILON",
@@ -717,7 +748,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 24
+        "line": 24,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L24"
       },
       {
         "name": "POSITIVE_INFINITY",
@@ -725,7 +757,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 29
+        "line": 29,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L29"
       },
       {
         "name": "NEGATIVE_INFINITY",
@@ -733,7 +766,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 34
+        "line": 34,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L34"
       },
       {
         "name": "DEFAULT_RADIX",
@@ -741,7 +775,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/numbers.ts",
-        "line": 39
+        "line": 39,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/numbers.ts#L39"
       },
       {
         "name": "SPEED_OF_LIGHT",
@@ -749,7 +784,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/physics.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/physics.ts#L4"
       },
       {
         "name": "GRAVITY",
@@ -757,7 +793,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/physics.ts",
-        "line": 9
+        "line": 9,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/physics.ts#L9"
       },
       {
         "name": "PLANCK",
@@ -765,7 +802,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/physics.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/physics.ts#L14"
       },
       {
         "name": "GAS",
@@ -773,7 +811,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/physics.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/physics.ts#L19"
       },
       {
         "name": "SHEBANG",
@@ -781,7 +820,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/shebang.ts",
-        "line": 1
+        "line": 1,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/shebang.ts#L1"
       },
       {
         "name": "SPDX",
@@ -789,7 +829,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/spdx-license.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/spdx-license.ts#L3"
       },
       {
         "name": "SPDX_LICENSE_IDENTIFIERS",
@@ -797,7 +838,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/spdx-license.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/spdx-license.ts#L16"
       },
       {
         "name": "SPDX_LICENSE",
@@ -805,7 +847,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/spdx-license.ts",
-        "line": 751
+        "line": 751,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/spdx-license.ts#L751"
       },
       {
         "name": "NEW_LINE",
@@ -813,7 +856,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 6
+        "line": 6,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L6"
       },
       {
         "name": "TAB",
@@ -821,7 +865,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 11
+        "line": 11,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L11"
       },
       {
         "name": "SPACE",
@@ -829,7 +874,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L16"
       },
       {
         "name": "EMPTY_STRING",
@@ -837,7 +883,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 21
+        "line": 21,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L21"
       },
       {
         "name": "CARRIAGE_RETURN",
@@ -845,7 +892,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 26
+        "line": 26,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L26"
       },
       {
         "name": "FORM_FEED",
@@ -853,7 +901,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 31
+        "line": 31,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L31"
       },
       {
         "name": "VERTICAL_TAB",
@@ -861,7 +910,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 36
+        "line": 36,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L36"
       },
       {
         "name": "BACKSPACE",
@@ -869,7 +919,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 43
+        "line": 43,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L43"
       },
       {
         "name": "BELL",
@@ -877,7 +928,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 48
+        "line": 48,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L48"
       },
       {
         "name": "DELETE_CHARACTER",
@@ -885,7 +937,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 53
+        "line": 53,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L53"
       },
       {
         "name": "ESCAPE",
@@ -893,7 +946,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 58
+        "line": 58,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L58"
       },
       {
         "name": "FILE_SEPARATOR",
@@ -901,7 +955,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 63
+        "line": 63,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L63"
       },
       {
         "name": "GROUP_SEPARATOR",
@@ -909,7 +964,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 68
+        "line": 68,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L68"
       },
       {
         "name": "NULL_CHARACTER",
@@ -917,7 +973,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 73
+        "line": 73,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L73"
       },
       {
         "name": "RECORD_SEPARATOR",
@@ -925,7 +982,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 78
+        "line": 78,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L78"
       },
       {
         "name": "UNIT_SEPARATOR",
@@ -933,7 +991,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 83
+        "line": 83,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L83"
       },
       {
         "name": "BACKTICK",
@@ -941,7 +1000,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 90
+        "line": 90,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L90"
       },
       {
         "name": "DOUBLE_QUOTE",
@@ -949,7 +1009,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 95
+        "line": 95,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L95"
       },
       {
         "name": "LEFT_ANGLE_QUOTE",
@@ -957,7 +1018,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 100
+        "line": 100,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L100"
       },
       {
         "name": "LEFT_DOUBLE_QUOTATION_MARK",
@@ -965,7 +1027,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 105
+        "line": 105,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L105"
       },
       {
         "name": "LEFT_SINGLE_QUOTATION_MARK",
@@ -973,7 +1036,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 110
+        "line": 110,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L110"
       },
       {
         "name": "LOW_DOUBLE_QUOTATION_MARK",
@@ -981,7 +1045,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 115
+        "line": 115,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L115"
       },
       {
         "name": "RIGHT_ANGLE_QUOTE",
@@ -989,7 +1054,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 120
+        "line": 120,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L120"
       },
       {
         "name": "RIGHT_DOUBLE_QUOTATION_MARK",
@@ -997,7 +1063,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 125
+        "line": 125,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L125"
       },
       {
         "name": "RIGHT_SINGLE_QUOTATION_MARK",
@@ -1005,7 +1072,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 130
+        "line": 130,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L130"
       },
       {
         "name": "SINGLE_QUOTE",
@@ -1013,7 +1081,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 135
+        "line": 135,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L135"
       },
       {
         "name": "LEFT_ANGLE_BRACKET",
@@ -1021,7 +1090,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 142
+        "line": 142,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L142"
       },
       {
         "name": "LEFT_CURLY_BRACE",
@@ -1029,7 +1099,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 147
+        "line": 147,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L147"
       },
       {
         "name": "LEFT_PARENTHESIS",
@@ -1037,7 +1108,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 152
+        "line": 152,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L152"
       },
       {
         "name": "LEFT_SQUARE_BRACKET",
@@ -1045,7 +1117,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 157
+        "line": 157,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L157"
       },
       {
         "name": "RIGHT_ANGLE_BRACKET",
@@ -1053,7 +1126,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 162
+        "line": 162,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L162"
       },
       {
         "name": "RIGHT_CURLY_BRACE",
@@ -1061,7 +1135,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 167
+        "line": 167,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L167"
       },
       {
         "name": "RIGHT_PARENTHESIS",
@@ -1069,7 +1144,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 172
+        "line": 172,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L172"
       },
       {
         "name": "RIGHT_SQUARE_BRACKET",
@@ -1077,7 +1153,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 177
+        "line": 177,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L177"
       },
       {
         "name": "AMPERSAND",
@@ -1085,7 +1162,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 184
+        "line": 184,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L184"
       },
       {
         "name": "ASTERISK",
@@ -1093,7 +1171,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 189
+        "line": 189,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L189"
       },
       {
         "name": "AT_SIGN",
@@ -1101,7 +1180,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 194
+        "line": 194,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L194"
       },
       {
         "name": "BACKSLASH",
@@ -1109,7 +1189,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 199
+        "line": 199,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L199"
       },
       {
         "name": "COLON",
@@ -1117,7 +1198,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 204
+        "line": 204,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L204"
       },
       {
         "name": "COMMA",
@@ -1125,7 +1207,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 209
+        "line": 209,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L209"
       },
       {
         "name": "ELLIPSIS",
@@ -1133,7 +1216,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 214
+        "line": 214,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L214"
       },
       {
         "name": "EXCLAMATION_MARK",
@@ -1141,7 +1225,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 219
+        "line": 219,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L219"
       },
       {
         "name": "FORWARD_SLASH",
@@ -1149,7 +1234,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 224
+        "line": 224,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L224"
       },
       {
         "name": "HASH",
@@ -1157,7 +1243,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 229
+        "line": 229,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L229"
       },
       {
         "name": "HYPHEN",
@@ -1165,7 +1252,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 234
+        "line": 234,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L234"
       },
       {
         "name": "PERCENT_SIGN",
@@ -1173,7 +1261,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 239
+        "line": 239,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L239"
       },
       {
         "name": "PERIOD",
@@ -1181,7 +1270,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 244
+        "line": 244,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L244"
       },
       {
         "name": "PIPE",
@@ -1189,7 +1279,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 249
+        "line": 249,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L249"
       },
       {
         "name": "QUESTION_MARK",
@@ -1197,7 +1288,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 254
+        "line": 254,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L254"
       },
       {
         "name": "SEMICOLON",
@@ -1205,7 +1297,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 259
+        "line": 259,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L259"
       },
       {
         "name": "TILDE",
@@ -1213,7 +1306,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 264
+        "line": 264,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L264"
       },
       {
         "name": "UNDERSCORE",
@@ -1221,7 +1315,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 269
+        "line": 269,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L269"
       },
       {
         "name": "ARROW_FUNCTION",
@@ -1229,7 +1324,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 276
+        "line": 276,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L276"
       },
       {
         "name": "EQUALS_SIGN",
@@ -1237,7 +1333,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 281
+        "line": 281,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L281"
       },
       {
         "name": "GREATER_THAN_OR_EQUAL",
@@ -1245,7 +1342,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 286
+        "line": 286,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L286"
       },
       {
         "name": "LESS_THAN_OR_EQUAL",
@@ -1253,7 +1351,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 291
+        "line": 291,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L291"
       },
       {
         "name": "LOGICAL_AND",
@@ -1261,7 +1360,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 296
+        "line": 296,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L296"
       },
       {
         "name": "LOGICAL_OR",
@@ -1269,7 +1369,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 301
+        "line": 301,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L301"
       },
       {
         "name": "NOT_EQUAL",
@@ -1277,7 +1378,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 306
+        "line": 306,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L306"
       },
       {
         "name": "NULLISH_COALESCING",
@@ -1285,7 +1387,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 311
+        "line": 311,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L311"
       },
       {
         "name": "OPTIONAL_CHAINING",
@@ -1293,7 +1396,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 316
+        "line": 316,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L316"
       },
       {
         "name": "SPREAD_OPERATOR",
@@ -1301,7 +1405,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 321
+        "line": 321,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L321"
       },
       {
         "name": "STRICT_EQUALS",
@@ -1309,7 +1414,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 326
+        "line": 326,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L326"
       },
       {
         "name": "STRICT_NOT_EQUAL",
@@ -1317,7 +1423,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 331
+        "line": 331,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L331"
       },
       {
         "name": "APPROXIMATELY_EQUAL",
@@ -1325,7 +1432,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 338
+        "line": 338,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L338"
       },
       {
         "name": "DEGREE_SIGN",
@@ -1333,7 +1441,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 343
+        "line": 343,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L343"
       },
       {
         "name": "DELTA",
@@ -1341,7 +1450,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 348
+        "line": 348,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L348"
       },
       {
         "name": "DIVISION_SIGN",
@@ -1349,7 +1459,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 353
+        "line": 353,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L353"
       },
       {
         "name": "INFINITY",
@@ -1357,7 +1468,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 358
+        "line": 358,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L358"
       },
       {
         "name": "INTEGRAL",
@@ -1365,7 +1477,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 363
+        "line": 363,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L363"
       },
       {
         "name": "MULTIPLICATION_SIGN",
@@ -1373,7 +1486,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 368
+        "line": 368,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L368"
       },
       {
         "name": "PARTIAL_DIFFERENTIAL",
@@ -1381,7 +1495,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 373
+        "line": 373,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L373"
       },
       {
         "name": "PI_SYMBOL",
@@ -1389,7 +1504,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 378
+        "line": 378,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L378"
       },
       {
         "name": "PLUS_MINUS_SIGN",
@@ -1397,7 +1513,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 383
+        "line": 383,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L383"
       },
       {
         "name": "SQUARE_ROOT",
@@ -1405,7 +1522,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 388
+        "line": 388,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L388"
       },
       {
         "name": "SUMMATION",
@@ -1413,7 +1531,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 393
+        "line": 393,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L393"
       },
       {
         "name": "BITCOIN_SIGN",
@@ -1421,7 +1540,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 400
+        "line": 400,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L400"
       },
       {
         "name": "CENT_SIGN",
@@ -1429,7 +1549,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 405
+        "line": 405,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L405"
       },
       {
         "name": "DOLLAR_SIGN",
@@ -1437,7 +1558,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 410
+        "line": 410,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L410"
       },
       {
         "name": "EURO_SIGN",
@@ -1445,7 +1567,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 415
+        "line": 415,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L415"
       },
       {
         "name": "POUND_SIGN",
@@ -1453,7 +1576,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 420
+        "line": 420,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L420"
       },
       {
         "name": "RUPEE_SIGN",
@@ -1461,7 +1585,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 425
+        "line": 425,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L425"
       },
       {
         "name": "WON_SIGN",
@@ -1469,7 +1594,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 430
+        "line": 430,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L430"
       },
       {
         "name": "YEN_SIGN",
@@ -1477,7 +1603,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 435
+        "line": 435,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L435"
       },
       {
         "name": "DOUBLE_LEFT_ARROW",
@@ -1485,7 +1612,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 442
+        "line": 442,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L442"
       },
       {
         "name": "DOUBLE_RIGHT_ARROW",
@@ -1493,7 +1621,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 447
+        "line": 447,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L447"
       },
       {
         "name": "DOWN_ARROW",
@@ -1501,7 +1630,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 452
+        "line": 452,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L452"
       },
       {
         "name": "LEFT_ARROW",
@@ -1509,7 +1639,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 457
+        "line": 457,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L457"
       },
       {
         "name": "LEFT_RIGHT_ARROW",
@@ -1517,7 +1648,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 462
+        "line": 462,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L462"
       },
       {
         "name": "NORTH_EAST_ARROW",
@@ -1525,7 +1657,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 467
+        "line": 467,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L467"
       },
       {
         "name": "RIGHT_ARROW",
@@ -1533,7 +1666,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 472
+        "line": 472,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L472"
       },
       {
         "name": "SOUTH_EAST_ARROW",
@@ -1541,7 +1675,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 477
+        "line": 477,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L477"
       },
       {
         "name": "UP_ARROW",
@@ -1549,7 +1684,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 482
+        "line": 482,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L482"
       },
       {
         "name": "UP_DOWN_ARROW",
@@ -1557,7 +1693,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 487
+        "line": 487,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L487"
       },
       {
         "name": "BLACK_CIRCLE",
@@ -1565,7 +1702,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 494
+        "line": 494,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L494"
       },
       {
         "name": "BLACK_DIAMOND",
@@ -1573,7 +1711,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 499
+        "line": 499,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L499"
       },
       {
         "name": "BLACK_SQUARE",
@@ -1581,7 +1720,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 504
+        "line": 504,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L504"
       },
       {
         "name": "BLACK_STAR",
@@ -1589,7 +1729,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 509
+        "line": 509,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L509"
       },
       {
         "name": "BLACK_TRIANGLE_UP",
@@ -1597,7 +1738,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 514
+        "line": 514,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L514"
       },
       {
         "name": "WHITE_CIRCLE",
@@ -1605,7 +1747,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 519
+        "line": 519,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L519"
       },
       {
         "name": "WHITE_DIAMOND",
@@ -1613,7 +1756,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 524
+        "line": 524,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L524"
       },
       {
         "name": "WHITE_SQUARE",
@@ -1621,7 +1765,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 529
+        "line": 529,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L529"
       },
       {
         "name": "WHITE_STAR",
@@ -1629,7 +1774,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 534
+        "line": 534,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L534"
       },
       {
         "name": "WHITE_TRIANGLE_UP",
@@ -1637,7 +1783,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 539
+        "line": 539,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L539"
       },
       {
         "name": "CHECK_MARK_EMOJI",
@@ -1645,7 +1792,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 546
+        "line": 546,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L546"
       },
       {
         "name": "CROSS_MARK_EMOJI",
@@ -1653,7 +1801,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 551
+        "line": 551,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L551"
       },
       {
         "name": "EYES_EMOJI",
@@ -1661,7 +1810,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 556
+        "line": 556,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L556"
       },
       {
         "name": "FIRE_EMOJI",
@@ -1669,7 +1819,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 561
+        "line": 561,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L561"
       },
       {
         "name": "LIGHT_BULB_EMOJI",
@@ -1677,7 +1828,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 566
+        "line": 566,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L566"
       },
       {
         "name": "ROCKET_EMOJI",
@@ -1685,7 +1837,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 571
+        "line": 571,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L571"
       },
       {
         "name": "SPARKLES_EMOJI",
@@ -1693,7 +1846,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 576
+        "line": 576,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L576"
       },
       {
         "name": "THUMBS_DOWN_EMOJI",
@@ -1701,7 +1855,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 581
+        "line": 581,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L581"
       },
       {
         "name": "THUMBS_UP_EMOJI",
@@ -1709,7 +1864,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 586
+        "line": 586,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L586"
       },
       {
         "name": "WARNING_EMOJI",
@@ -1717,7 +1873,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 591
+        "line": 591,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L591"
       },
       {
         "name": "BULLET",
@@ -1725,7 +1882,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 598
+        "line": 598,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L598"
       },
       {
         "name": "COPYRIGHT_SIGN",
@@ -1733,7 +1891,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 603
+        "line": 603,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L603"
       },
       {
         "name": "DAGGER",
@@ -1741,7 +1900,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 608
+        "line": 608,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L608"
       },
       {
         "name": "DOUBLE_DAGGER",
@@ -1749,7 +1909,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 613
+        "line": 613,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L613"
       },
       {
         "name": "EM_DASH",
@@ -1757,7 +1918,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 618
+        "line": 618,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L618"
       },
       {
         "name": "EN_DASH",
@@ -1765,7 +1927,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 623
+        "line": 623,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L623"
       },
       {
         "name": "PILCROW_SIGN",
@@ -1773,7 +1936,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 628
+        "line": 628,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L628"
       },
       {
         "name": "REGISTERED_SIGN",
@@ -1781,7 +1945,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 633
+        "line": 633,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L633"
       },
       {
         "name": "SECTION_SIGN",
@@ -1789,7 +1954,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 638
+        "line": 638,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L638"
       },
       {
         "name": "TRADEMARK_SIGN",
@@ -1797,7 +1963,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 643
+        "line": 643,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L643"
       },
       {
         "name": "ONE_FIFTH",
@@ -1805,7 +1972,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 650
+        "line": 650,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L650"
       },
       {
         "name": "ONE_HALF",
@@ -1813,7 +1981,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 655
+        "line": 655,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L655"
       },
       {
         "name": "ONE_QUARTER",
@@ -1821,7 +1990,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 660
+        "line": 660,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L660"
       },
       {
         "name": "ONE_THIRD",
@@ -1829,7 +1999,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 665
+        "line": 665,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L665"
       },
       {
         "name": "THREE_QUARTERS",
@@ -1837,7 +2008,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 670
+        "line": 670,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L670"
       },
       {
         "name": "TWO_THIRDS",
@@ -1845,7 +2017,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 675
+        "line": 675,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L675"
       },
       {
         "name": "SUPERSCRIPT_FOUR",
@@ -1853,7 +2026,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 682
+        "line": 682,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L682"
       },
       {
         "name": "SUPERSCRIPT_MINUS",
@@ -1861,7 +2035,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 687
+        "line": 687,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L687"
       },
       {
         "name": "SUPERSCRIPT_ONE",
@@ -1869,7 +2044,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 692
+        "line": 692,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L692"
       },
       {
         "name": "SUPERSCRIPT_PLUS",
@@ -1877,7 +2053,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 697
+        "line": 697,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L697"
       },
       {
         "name": "SUPERSCRIPT_THREE",
@@ -1885,7 +2062,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 702
+        "line": 702,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L702"
       },
       {
         "name": "SUPERSCRIPT_TWO",
@@ -1893,7 +2071,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 707
+        "line": 707,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L707"
       },
       {
         "name": "SUPERSCRIPT_ZERO",
@@ -1901,7 +2080,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 712
+        "line": 712,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L712"
       },
       {
         "name": "SUBSCRIPT_FOUR",
@@ -1909,7 +2089,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 719
+        "line": 719,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L719"
       },
       {
         "name": "SUBSCRIPT_MINUS",
@@ -1917,7 +2098,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 724
+        "line": 724,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L724"
       },
       {
         "name": "SUBSCRIPT_ONE",
@@ -1925,7 +2107,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 729
+        "line": 729,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L729"
       },
       {
         "name": "SUBSCRIPT_PLUS",
@@ -1933,7 +2116,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 734
+        "line": 734,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L734"
       },
       {
         "name": "SUBSCRIPT_THREE",
@@ -1941,7 +2125,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 739
+        "line": 739,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L739"
       },
       {
         "name": "SUBSCRIPT_TWO",
@@ -1949,7 +2134,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 744
+        "line": 744,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L744"
       },
       {
         "name": "SUBSCRIPT_ZERO",
@@ -1957,7 +2143,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 749
+        "line": 749,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L749"
       },
       {
         "name": "LATIN_CAPITAL_LIGATURE_AE",
@@ -1965,7 +2152,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 756
+        "line": 756,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L756"
       },
       {
         "name": "LATIN_SMALL_LETTER_ETH",
@@ -1973,7 +2161,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 761
+        "line": 761,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L761"
       },
       {
         "name": "LATIN_SMALL_LETTER_SHARP_S",
@@ -1981,7 +2170,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 766
+        "line": 766,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L766"
       },
       {
         "name": "LATIN_SMALL_LETTER_THORN",
@@ -1989,7 +2179,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 771
+        "line": 771,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L771"
       },
       {
         "name": "LATIN_SMALL_LIGATURE_AE",
@@ -1997,7 +2188,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 776
+        "line": 776,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L776"
       },
       {
         "name": "DEGREE_CELSIUS",
@@ -2005,7 +2197,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 783
+        "line": 783,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L783"
       },
       {
         "name": "DEGREE_FAHRENHEIT",
@@ -2013,7 +2206,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 788
+        "line": 788,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L788"
       },
       {
         "name": "ESTIMATED_SYMBOL",
@@ -2021,7 +2215,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 793
+        "line": 793,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L793"
       },
       {
         "name": "MICRO_SIGN",
@@ -2029,7 +2224,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 798
+        "line": 798,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L798"
       },
       {
         "name": "NUMERO_SIGN",
@@ -2037,7 +2233,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 803
+        "line": 803,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L803"
       },
       {
         "name": "OHM_SIGN",
@@ -2045,7 +2242,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 808
+        "line": 808,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L808"
       },
       {
         "name": "GLOB_RECURSIVE_WILDCARD",
@@ -2053,7 +2251,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 815
+        "line": 815,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L815"
       },
       {
         "name": "HOME_DIRECTORY_SHORTHAND",
@@ -2061,7 +2260,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 820
+        "line": 820,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L820"
       },
       {
         "name": "PARENT_DIRECTORY",
@@ -2069,7 +2269,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 825
+        "line": 825,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L825"
       },
       {
         "name": "UNC_PATH_PREFIX",
@@ -2077,7 +2278,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 830
+        "line": 830,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L830"
       },
       {
         "name": "WINDOWS_DRIVE_SEPARATOR",
@@ -2085,7 +2287,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 835
+        "line": 835,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L835"
       },
       {
         "name": "HTTPS_SCHEME_PREFIX",
@@ -2093,7 +2296,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 842
+        "line": 842,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L842"
       },
       {
         "name": "HTTP_SCHEME_PREFIX",
@@ -2101,7 +2305,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 847
+        "line": 847,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L847"
       },
       {
         "name": "MAILTO_SCHEME_PREFIX",
@@ -2109,7 +2314,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 852
+        "line": 852,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L852"
       },
       {
         "name": "PROTOCOL_SEPARATOR",
@@ -2117,7 +2323,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 857
+        "line": 857,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L857"
       },
       {
         "name": "WWW_SUBDOMAIN_PREFIX",
@@ -2125,7 +2332,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 862
+        "line": 862,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L862"
       },
       {
         "name": "MARKDOWN_BOLD_DELIMITER",
@@ -2133,7 +2341,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 869
+        "line": 869,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L869"
       },
       {
         "name": "MARKDOWN_CODE_FENCE",
@@ -2141,7 +2350,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 874
+        "line": 874,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L874"
       },
       {
         "name": "MARKDOWN_HEADING_PREFIX",
@@ -2149,7 +2359,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 879
+        "line": 879,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L879"
       },
       {
         "name": "MARKDOWN_HORIZONTAL_RULE",
@@ -2157,7 +2368,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 884
+        "line": 884,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L884"
       },
       {
         "name": "MARKDOWN_STRIKETHROUGH_DELIMITER",
@@ -2165,7 +2377,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 889
+        "line": 889,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L889"
       },
       {
         "name": "MARKDOWN_TASK_CHECKED",
@@ -2173,7 +2386,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 894
+        "line": 894,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L894"
       },
       {
         "name": "MARKDOWN_TASK_UNCHECKED",
@@ -2181,7 +2395,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 899
+        "line": 899,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L899"
       },
       {
         "name": "HTML_COMMENT_CLOSE",
@@ -2189,7 +2404,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 906
+        "line": 906,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L906"
       },
       {
         "name": "HTML_COMMENT_OPEN",
@@ -2197,7 +2413,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 911
+        "line": 911,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L911"
       },
       {
         "name": "HTML_DOCTYPE_PREFIX",
@@ -2205,7 +2422,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 916
+        "line": 916,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L916"
       },
       {
         "name": "HTML_SELF_CLOSING_SUFFIX",
@@ -2213,7 +2431,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 921
+        "line": 921,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L921"
       },
       {
         "name": "HTML_TAG_CLOSE_PREFIX",
@@ -2221,7 +2440,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 926
+        "line": 926,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L926"
       },
       {
         "name": "XML_CDATA_CLOSE",
@@ -2229,7 +2449,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 933
+        "line": 933,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L933"
       },
       {
         "name": "XML_CDATA_OPEN",
@@ -2237,7 +2458,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 938
+        "line": 938,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L938"
       },
       {
         "name": "XML_DECLARATION_PREFIX",
@@ -2245,7 +2467,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 943
+        "line": 943,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L943"
       },
       {
         "name": "XML_PROCESSING_INSTRUCTION_CLOSE",
@@ -2253,7 +2476,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 948
+        "line": 948,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L948"
       },
       {
         "name": "JSON_EMPTY_ARRAY",
@@ -2261,7 +2485,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 955
+        "line": 955,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L955"
       },
       {
         "name": "JSON_EMPTY_OBJECT",
@@ -2269,7 +2494,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 960
+        "line": 960,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L960"
       },
       {
         "name": "JSON_FALSE_LITERAL",
@@ -2277,7 +2503,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 965
+        "line": 965,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L965"
       },
       {
         "name": "JSON_NULL_LITERAL",
@@ -2285,7 +2512,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 970
+        "line": 970,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L970"
       },
       {
         "name": "JSON_TRUE_LITERAL",
@@ -2293,7 +2521,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 975
+        "line": 975,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L975"
       },
       {
         "name": "REGEX_CASE_INSENSITIVE_FLAG",
@@ -2301,7 +2530,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 982
+        "line": 982,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L982"
       },
       {
         "name": "REGEX_DIGIT_CLASS",
@@ -2309,7 +2539,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 987
+        "line": 987,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L987"
       },
       {
         "name": "REGEX_GLOBAL_FLAG",
@@ -2317,7 +2548,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 992
+        "line": 992,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L992"
       },
       {
         "name": "REGEX_NON_DIGIT_CLASS",
@@ -2325,7 +2557,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 997
+        "line": 997,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L997"
       },
       {
         "name": "REGEX_NON_WORD_CLASS",
@@ -2333,7 +2566,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1002
+        "line": 1002,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1002"
       },
       {
         "name": "REGEX_START_OF_LINE_ANCHOR",
@@ -2341,7 +2575,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1007
+        "line": 1007,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1007"
       },
       {
         "name": "REGEX_WHITESPACE_CLASS",
@@ -2349,7 +2584,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1012
+        "line": 1012,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1012"
       },
       {
         "name": "REGEX_WORD_CLASS",
@@ -2357,7 +2593,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1017
+        "line": 1017,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1017"
       },
       {
         "name": "CLI_FLAG_PREFIX",
@@ -2365,7 +2602,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1024
+        "line": 1024,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1024"
       },
       {
         "name": "CLI_HEREDOC_OPERATOR",
@@ -2373,7 +2611,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1029
+        "line": 1029,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1029"
       },
       {
         "name": "CLI_NULL_DEVICE_REDIRECT",
@@ -2381,7 +2620,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1034
+        "line": 1034,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1034"
       },
       {
         "name": "CLI_REDIRECT_APPEND",
@@ -2389,7 +2629,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1039
+        "line": 1039,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1039"
       },
       {
         "name": "CLI_STDERR_REDIRECT",
@@ -2397,7 +2638,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1044
+        "line": 1044,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1044"
       },
       {
         "name": "ANSI_BOLD_SEQUENCE",
@@ -2405,7 +2647,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1051
+        "line": 1051,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1051"
       },
       {
         "name": "ANSI_ESCAPE_PREFIX",
@@ -2413,7 +2656,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1056
+        "line": 1056,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1056"
       },
       {
         "name": "ANSI_GREEN_TEXT_SEQUENCE",
@@ -2421,7 +2665,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1061
+        "line": 1061,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1061"
       },
       {
         "name": "ANSI_RED_TEXT_SEQUENCE",
@@ -2429,7 +2674,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1066
+        "line": 1066,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1066"
       },
       {
         "name": "ANSI_RESET_SEQUENCE",
@@ -2437,7 +2683,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1071
+        "line": 1071,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1071"
       },
       {
         "name": "CARRIAGE_RETURN_LINE_CLEAR",
@@ -2445,7 +2692,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1076
+        "line": 1076,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1076"
       },
       {
         "name": "GIT_ADDED_FILE_MARKER",
@@ -2453,7 +2701,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1083
+        "line": 1083,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1083"
       },
       {
         "name": "GIT_CONFLICT_MARKER_END",
@@ -2461,7 +2710,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1088
+        "line": 1088,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1088"
       },
       {
         "name": "GIT_CONFLICT_MARKER_MIDDLE",
@@ -2469,7 +2719,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1093
+        "line": 1093,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1093"
       },
       {
         "name": "GIT_CONFLICT_MARKER_START",
@@ -2477,7 +2728,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1098
+        "line": 1098,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1098"
       },
       {
         "name": "GIT_DELETED_FILE_MARKER",
@@ -2485,7 +2737,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1103
+        "line": 1103,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1103"
       },
       {
         "name": "GIT_MODIFIED_FILE_MARKER",
@@ -2493,7 +2746,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1108
+        "line": 1108,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1108"
       },
       {
         "name": "GIT_RENAMED_FILE_MARKER",
@@ -2501,7 +2755,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1113
+        "line": 1113,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1113"
       },
       {
         "name": "GIT_UNTRACKED_FILE_MARKER",
@@ -2509,7 +2764,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1118
+        "line": 1118,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1118"
       },
       {
         "name": "INCREMENT_OPERATOR",
@@ -2517,7 +2773,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1125
+        "line": 1125,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1125"
       },
       {
         "name": "NAMESPACE_SEPARATOR",
@@ -2525,7 +2782,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1130
+        "line": 1130,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1130"
       },
       {
         "name": "SHEBANG_PREFIX",
@@ -2533,7 +2791,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1135
+        "line": 1135,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1135"
       },
       {
         "name": "TEMPLATE_LITERAL_PLACEHOLDER_OPEN",
@@ -2541,7 +2800,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1140
+        "line": 1140,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1140"
       },
       {
         "name": "TERNARY_CONDITIONAL_OPERATOR",
@@ -2549,7 +2809,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1145
+        "line": 1145,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1145"
       },
       {
         "name": "TYPE_ANNOTATION_SEPARATOR",
@@ -2557,7 +2818,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/symbols.ts",
-        "line": 1150
+        "line": 1150,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/symbols.ts#L1150"
       },
       {
         "name": "SECOND",
@@ -2565,7 +2827,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L4"
       },
       {
         "name": "MINUTE",
@@ -2573,7 +2836,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 9
+        "line": 9,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L9"
       },
       {
         "name": "HOUR",
@@ -2581,7 +2845,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L14"
       },
       {
         "name": "DAY",
@@ -2589,7 +2854,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L19"
       },
       {
         "name": "WEEK",
@@ -2597,7 +2863,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 24
+        "line": 24,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L24"
       },
       {
         "name": "MONTH_AVG",
@@ -2605,7 +2872,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 29
+        "line": 29,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L29"
       },
       {
         "name": "YEAR",
@@ -2613,7 +2881,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/time.ts",
-        "line": 34
+        "line": 34,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/time.ts#L34"
       },
       {
         "name": "KM_TO_M",
@@ -2621,7 +2890,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 6
+        "line": 6,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L6"
       },
       {
         "name": "M_TO_CM",
@@ -2629,7 +2899,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 11
+        "line": 11,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L11"
       },
       {
         "name": "CM_TO_MM",
@@ -2637,7 +2908,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L16"
       },
       {
         "name": "KG_TO_G",
@@ -2645,7 +2917,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 21
+        "line": 21,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L21"
       },
       {
         "name": "TON_TO_KG",
@@ -2653,7 +2926,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 26
+        "line": 26,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L26"
       },
       {
         "name": "DEG_TO_RAD",
@@ -2661,7 +2935,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 31
+        "line": 31,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L31"
       },
       {
         "name": "RAD_TO_DEG",
@@ -2669,7 +2944,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/units.ts",
-        "line": 36
+        "line": 36,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/units.ts#L36"
       },
       {
         "name": "COMMIT_SCOPES",
@@ -2677,7 +2953,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/commit/scope.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/commit/scope.ts#L12"
       },
       {
         "name": "CommitScope",
@@ -2685,7 +2962,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/commit/scope.ts",
-        "line": 113
+        "line": 113,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/commit/scope.ts#L113"
       },
       {
         "name": "COMMIT_SCOPE_VALUES",
@@ -2693,7 +2971,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/commit/scope.ts",
-        "line": 120
+        "line": 120,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/commit/scope.ts#L120"
       },
       {
         "name": "COMMIT_TYPES",
@@ -2701,7 +2980,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/commit/types.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/commit/types.ts#L12"
       },
       {
         "name": "CommitType",
@@ -2709,7 +2989,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/commit/types.ts",
-        "line": 505
+        "line": 505,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/commit/types.ts#L505"
       },
       {
         "name": "COMMIT_TYPE_VALUES",
@@ -2717,7 +2998,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/constants/src/commit/types.ts",
-        "line": 512
+        "line": 512,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/constants/src/commit/types.ts#L512"
       }
     ],
     "@js-utils-kit/env": [
@@ -2727,7 +3009,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 26
+        "line": 26,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L26"
       },
       {
         "name": "setEnv",
@@ -2735,7 +3018,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 44
+        "line": 44,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L44"
       },
       {
         "name": "removeEnv",
@@ -2743,7 +3027,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 65
+        "line": 65,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L65"
       },
       {
         "name": "hasEnv",
@@ -2751,7 +3036,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 86
+        "line": 86,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L86"
       },
       {
         "name": "getEnv",
@@ -2759,7 +3045,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 105
+        "line": 105,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L105"
       },
       {
         "name": "getEnvOr",
@@ -2767,7 +3054,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 123
+        "line": 123,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L123"
       },
       {
         "name": "appendEnv",
@@ -2775,7 +3063,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 146
+        "line": 146,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L146"
       },
       {
         "name": "prependEnv",
@@ -2783,7 +3072,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 170
+        "line": 170,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L170"
       },
       {
         "name": "toggleEnv",
@@ -2791,7 +3081,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 197
+        "line": 197,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L197"
       },
       {
         "name": "isEnvEmpty",
@@ -2799,7 +3090,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 223
+        "line": 223,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L223"
       },
       {
         "name": "setEnvMany",
@@ -2807,7 +3099,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/env.ts",
-        "line": 246
+        "line": 246,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/env.ts#L246"
       },
       {
         "name": "getRunTimeEnvironment",
@@ -2815,7 +3108,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/getRunTimeEnvironment.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/getRunTimeEnvironment.ts#L16"
       },
       {
         "name": "isCI",
@@ -2823,7 +3117,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/isCI.ts",
-        "line": 96
+        "line": 96,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/isCI.ts#L96"
       },
       {
         "name": "isDev",
@@ -2831,7 +3126,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/runtime.ts",
-        "line": 17
+        "line": 17,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/runtime.ts#L17"
       },
       {
         "name": "isProd",
@@ -2839,7 +3135,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/runtime.ts",
-        "line": 34
+        "line": 34,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/runtime.ts#L34"
       },
       {
         "name": "isTest",
@@ -2847,7 +3144,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/runtime.ts",
-        "line": 51
+        "line": 51,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/runtime.ts#L51"
       },
       {
         "name": "isNode",
@@ -2855,7 +3153,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/runtime.ts",
-        "line": 72
+        "line": 72,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/runtime.ts#L72"
       },
       {
         "name": "isCommonJS",
@@ -2863,7 +3162,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/env/src/runtime.ts",
-        "line": 99
+        "line": 99,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/env/src/runtime.ts#L99"
       }
     ],
     "@js-utils-kit/fs": [
@@ -2873,7 +3173,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/createArchive.ts",
-        "line": 30
+        "line": 30,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/createArchive.ts#L30"
       },
       {
         "name": "exists",
@@ -2881,7 +3182,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/file.ts",
-        "line": 5
+        "line": 5,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/file.ts#L5"
       },
       {
         "name": "isFile",
@@ -2889,7 +3191,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/file.ts",
-        "line": 22
+        "line": 22,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/file.ts#L22"
       },
       {
         "name": "isDirectory",
@@ -2897,7 +3200,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/file.ts",
-        "line": 38
+        "line": 38,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/file.ts#L38"
       },
       {
         "name": "getContentSize",
@@ -2905,7 +3209,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/file.ts",
-        "line": 54
+        "line": 54,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/file.ts#L54"
       },
       {
         "name": "parseJson",
@@ -2913,7 +3218,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/json.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/json.ts#L14"
       },
       {
         "name": "stringifyJson",
@@ -2921,7 +3227,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/json.ts",
-        "line": 30
+        "line": 30,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/json.ts#L30"
       },
       {
         "name": "readJsonFile",
@@ -2929,7 +3236,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/json.ts",
-        "line": 66
+        "line": 66,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/json.ts#L66"
       },
       {
         "name": "writeJsonFile",
@@ -2937,7 +3245,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/json.ts",
-        "line": 82
+        "line": 82,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/json.ts#L82"
       },
       {
         "name": "locateModuleFile",
@@ -2945,7 +3254,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/locator.ts",
-        "line": 30
+        "line": 30,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/locator.ts#L30"
       },
       {
         "name": "locateModuleDirectory",
@@ -2953,7 +3263,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/locator.ts",
-        "line": 60
+        "line": 60,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/locator.ts#L60"
       },
       {
         "name": "resolveModuleRelative",
@@ -2961,7 +3272,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/locator.ts",
-        "line": 116
+        "line": 116,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/locator.ts#L116"
       },
       {
         "name": "toPosixPath",
@@ -2969,7 +3281,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/path.ts",
-        "line": 24
+        "line": 24,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/path.ts#L24"
       },
       {
         "name": "toWinPath",
@@ -2977,7 +3290,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/path.ts",
-        "line": 50
+        "line": 50,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/path.ts#L50"
       },
       {
         "name": "toPlatformPath",
@@ -2985,7 +3299,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/fs/src/path.ts",
-        "line": 74
+        "line": 74,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/fs/src/path.ts#L74"
       }
     ],
     "@js-utils-kit/number": [
@@ -2995,7 +3310,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/number/src/clamp.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/number/src/clamp.ts#L15"
       },
       {
         "name": "getMilliseconds",
@@ -3003,7 +3319,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/number/src/getMilliseconds.ts",
-        "line": 17
+        "line": 17,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/number/src/getMilliseconds.ts#L17"
       },
       {
         "name": "isEven",
@@ -3011,7 +3328,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/number/src/isEven.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/number/src/isEven.ts#L12"
       },
       {
         "name": "isOdd",
@@ -3019,7 +3337,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/number/src/isOdd.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/number/src/isOdd.ts#L12"
       },
       {
         "name": "randomFloat",
@@ -3027,7 +3346,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/number/src/randomFloat.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/number/src/randomFloat.ts#L12"
       },
       {
         "name": "randomInt",
@@ -3035,7 +3355,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/number/src/randomInt.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/number/src/randomInt.ts#L12"
       }
     ],
     "@js-utils-kit/object": [
@@ -3045,7 +3366,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/object/src/deepFreeze.ts",
-        "line": 99
+        "line": 99,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/object/src/deepFreeze.ts#L99"
       },
       {
         "name": "deepMerge",
@@ -3053,7 +3375,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/object/src/deepMerge.ts",
-        "line": 91
+        "line": 91,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/object/src/deepMerge.ts#L91"
       },
       {
         "name": "DeepMergeOptions",
@@ -3061,7 +3384,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/object/src/deepMerge.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/object/src/deepMerge.ts#L7"
       }
     ],
     "@js-utils-kit/pm": [
@@ -3071,7 +3395,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/pm.ts",
-        "line": 48
+        "line": 48,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/pm.ts#L48"
       },
       {
         "name": "PACKAGE_MANAGERS",
@@ -3079,7 +3404,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/pm.ts",
-        "line": 8
+        "line": 8,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/pm.ts#L8"
       },
       {
         "name": "PackageManager",
@@ -3087,7 +3413,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L3"
       },
       {
         "name": "DetectPMOptions",
@@ -3095,7 +3422,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 8
+        "line": 8,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L8"
       },
       {
         "name": "DetectPMResult",
@@ -3103,7 +3431,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 47
+        "line": 47,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L47"
       },
       {
         "name": "PmCommandVariant",
@@ -3111,7 +3440,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 74
+        "line": 74,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L74"
       },
       {
         "name": "PmCommandVariants",
@@ -3119,7 +3449,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 77
+        "line": 77,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L77"
       },
       {
         "name": "PmCommands",
@@ -3127,7 +3458,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 82
+        "line": 82,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L82"
       },
       {
         "name": "PmCommandMap",
@@ -3135,7 +3467,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 87
+        "line": 87,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L87"
       },
       {
         "name": "PmCommandsRegistry",
@@ -3143,7 +3476,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/types.ts",
-        "line": 94
+        "line": 94,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/types.ts#L94"
       },
       {
         "name": "isValidPackageName",
@@ -3151,7 +3485,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/valid.ts",
-        "line": 24
+        "line": 24,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/valid.ts#L24"
       },
       {
         "name": "MAX_NPM_PACKAGE_NAME_LENGTH",
@@ -3159,7 +3494,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/valid.ts",
-        "line": 5
+        "line": 5,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/valid.ts#L5"
       },
       {
         "name": "buildPmCommand",
@@ -3167,7 +3503,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/builders/build-pm-command.ts",
-        "line": 56
+        "line": 56,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/builders/build-pm-command.ts#L56"
       },
       {
         "name": "bunCommands",
@@ -3175,7 +3512,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/commands/bun.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/commands/bun.ts#L3"
       },
       {
         "name": "npmCommands",
@@ -3183,7 +3521,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/commands/npm.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/commands/npm.ts#L3"
       },
       {
         "name": "pnpmCommands",
@@ -3191,7 +3530,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/commands/pnpm.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/commands/pnpm.ts#L3"
       },
       {
         "name": "PM_COMMANDS",
@@ -3199,7 +3539,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/commands/registry.ts",
-        "line": 23
+        "line": 23,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/commands/registry.ts#L23"
       },
       {
         "name": "yarnCommands",
@@ -3207,7 +3548,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/commands/yarn.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/commands/yarn.ts#L3"
       }
     ],
     "@js-utils-kit/regex": [
@@ -3217,7 +3559,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/alpha.ts",
-        "line": 22
+        "line": 22,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/alpha.ts#L22"
       },
       {
         "name": "IS_ALPHA_UNICODE_REGEX",
@@ -3225,7 +3568,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/alpha.ts",
-        "line": 47
+        "line": 47,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/alpha.ts#L47"
       },
       {
         "name": "LOWERCASE_ALPHA_REGEX",
@@ -3233,7 +3577,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/alpha.ts",
-        "line": 70
+        "line": 70,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/alpha.ts#L70"
       },
       {
         "name": "UPPERCASE_ALPHA_REGEX",
@@ -3241,7 +3586,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/alpha.ts",
-        "line": 93
+        "line": 93,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/alpha.ts#L93"
       },
       {
         "name": "STARTS_WITH_UPPERCASE_REGEX",
@@ -3249,7 +3595,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/alpha.ts",
-        "line": 114
+        "line": 114,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/alpha.ts#L114"
       },
       {
         "name": "CAMEL_CASE_REGEX",
@@ -3257,7 +3604,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/cases.ts",
-        "line": 18
+        "line": 18,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/cases.ts#L18"
       },
       {
         "name": "KEBAB_CASE_REGEX",
@@ -3265,7 +3613,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/cases.ts",
-        "line": 40
+        "line": 40,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/cases.ts#L40"
       },
       {
         "name": "PASCAL_CASE_REGEX",
@@ -3273,7 +3622,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/cases.ts",
-        "line": 60
+        "line": 60,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/cases.ts#L60"
       },
       {
         "name": "SNAKE_CASE_REGEX",
@@ -3281,7 +3631,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/cases.ts",
-        "line": 84
+        "line": 84,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/cases.ts#L84"
       },
       {
         "name": "EMAIL_LOCAL_PART_REGEX",
@@ -3289,7 +3640,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/email.ts",
-        "line": 21
+        "line": 21,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/email.ts#L21"
       },
       {
         "name": "EMAIL_DOMAIN_REGEX",
@@ -3297,7 +3649,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/email.ts",
-        "line": 46
+        "line": 46,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/email.ts#L46"
       },
       {
         "name": "EMAIL_REGEX",
@@ -3305,7 +3658,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/email.ts",
-        "line": 72
+        "line": 72,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/email.ts#L72"
       },
       {
         "name": "EMAIL_UNICODE_REGEX",
@@ -3313,7 +3667,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/email.ts",
-        "line": 105
+        "line": 105,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/email.ts#L105"
       },
       {
         "name": "EMAIL_REGEX_PRESETS",
@@ -3321,7 +3676,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/email.ts",
-        "line": 118
+        "line": 118,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/email.ts#L118"
       },
       {
         "name": "ENDS_WITH_PUNCTUATION_REGEX",
@@ -3329,7 +3685,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/endsWithPunctuation.ts",
-        "line": 20
+        "line": 20,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/endsWithPunctuation.ts#L20"
       },
       {
         "name": "HAS_WHITESPACE_REGEX",
@@ -3337,7 +3694,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/hasWhitespace.ts",
-        "line": 23
+        "line": 23,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/hasWhitespace.ts#L23"
       },
       {
         "name": "HTML_TAG_REGEX",
@@ -3345,7 +3703,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/html.ts",
-        "line": 18
+        "line": 18,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/html.ts#L18"
       },
       {
         "name": "STRICT_HTML_TAG_REGEX",
@@ -3353,7 +3712,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/html.ts",
-        "line": 37
+        "line": 37,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/html.ts#L37"
       },
       {
         "name": "NPM_PACKAGE_NAME_REGEX",
@@ -3361,7 +3721,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/regex/src/pm.ts",
-        "line": 56
+        "line": 56,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/regex/src/pm.ts#L56"
       }
     ],
     "@js-utils-kit/string": [
@@ -3371,7 +3732,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/capitalize.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/capitalize.ts#L14"
       },
       {
         "name": "countChars",
@@ -3379,7 +3741,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/countChars.ts",
-        "line": 23
+        "line": 23,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/countChars.ts#L23"
       },
       {
         "name": "countFrequencies",
@@ -3387,7 +3750,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/countFrequencies.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/countFrequencies.ts#L19"
       },
       {
         "name": "countLines",
@@ -3395,7 +3759,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/countLines.ts",
-        "line": 18
+        "line": 18,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/countLines.ts#L18"
       },
       {
         "name": "countSubstring",
@@ -3403,7 +3768,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/countSubstring.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/countSubstring.ts#L19"
       },
       {
         "name": "countWords",
@@ -3411,7 +3777,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/countWords.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/countWords.ts#L15"
       },
       {
         "name": "longestWord",
@@ -3419,7 +3786,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/longestWord.ts",
-        "line": 22
+        "line": 22,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/longestWord.ts#L22"
       },
       {
         "name": "longestWordLength",
@@ -3427,7 +3795,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/longestWordLength.ts",
-        "line": 22
+        "line": 22,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/longestWordLength.ts#L22"
       },
       {
         "name": "padLeft",
@@ -3435,7 +3804,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/padLeft.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/padLeft.ts#L14"
       },
       {
         "name": "padRight",
@@ -3443,7 +3813,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/padRight.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/padRight.ts#L14"
       },
       {
         "name": "repeatString",
@@ -3451,7 +3822,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/repeatString.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/repeatString.ts#L14"
       },
       {
         "name": "shortestWord",
@@ -3459,7 +3831,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/shortestWord.ts",
-        "line": 22
+        "line": 22,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/shortestWord.ts#L22"
       },
       {
         "name": "shortestWordLength",
@@ -3467,7 +3840,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/shortestWordLength.ts",
-        "line": 21
+        "line": 21,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/shortestWordLength.ts#L21"
       },
       {
         "name": "splitString",
@@ -3475,7 +3849,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/splitString.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/splitString.ts#L19"
       },
       {
         "name": "stripSymbols",
@@ -3483,7 +3858,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/stripSymbols.ts",
-        "line": 19
+        "line": 19,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/stripSymbols.ts#L19"
       },
       {
         "name": "trim",
@@ -3491,7 +3867,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/trim.ts",
-        "line": 41
+        "line": 41,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/trim.ts#L41"
       },
       {
         "name": "truncate",
@@ -3499,7 +3876,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/truncate.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/truncate.ts#L14"
       },
       {
         "name": "uniqueChars",
@@ -3507,7 +3885,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/uniqueChars.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/uniqueChars.ts#L15"
       }
     ],
     "@js-utils-kit/system": [
@@ -3517,7 +3896,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/cpu.ts",
-        "line": 8
+        "line": 8,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/cpu.ts#L8"
       },
       {
         "name": "CPUCores",
@@ -3525,7 +3905,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/cpu.ts",
-        "line": 13
+        "line": 13,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/cpu.ts#L13"
       },
       {
         "name": "CPUModel",
@@ -3533,7 +3914,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/cpu.ts",
-        "line": 18
+        "line": 18,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/cpu.ts#L18"
       },
       {
         "name": "homeDir",
@@ -3541,7 +3923,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/info.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/info.ts#L4"
       },
       {
         "name": "cwd",
@@ -3549,7 +3932,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/info.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/info.ts#L7"
       },
       {
         "name": "nodePath",
@@ -3557,7 +3941,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/info.ts",
-        "line": 10
+        "line": 10,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/info.ts#L10"
       },
       {
         "name": "argv",
@@ -3565,7 +3950,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/info.ts",
-        "line": 13
+        "line": 13,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/info.ts#L13"
       },
       {
         "name": "env",
@@ -3573,7 +3959,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/info.ts",
-        "line": 20
+        "line": 20,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/info.ts#L20"
       },
       {
         "name": "totalMemory",
@@ -3581,7 +3968,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/memory.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/memory.ts#L4"
       },
       {
         "name": "freeMemory",
@@ -3589,7 +3977,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/memory.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/memory.ts#L7"
       },
       {
         "name": "PROCESS_MEMORY_USAGE",
@@ -3597,7 +3986,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/memory.ts",
-        "line": 10
+        "line": 10,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/memory.ts#L10"
       },
       {
         "name": "PLATFORM",
@@ -3605,7 +3995,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/platform.ts",
-        "line": 6
+        "line": 6,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/platform.ts#L6"
       },
       {
         "name": "isMac",
@@ -3613,7 +4004,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/platform.ts",
-        "line": 11
+        "line": 11,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/platform.ts#L11"
       },
       {
         "name": "isLinux",
@@ -3621,7 +4013,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/platform.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/platform.ts#L16"
       },
       {
         "name": "isWindows",
@@ -3629,7 +4022,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/platform.ts",
-        "line": 21
+        "line": 21,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/platform.ts#L21"
       },
       {
         "name": "isAndroid",
@@ -3637,7 +4031,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/platform.ts",
-        "line": 26
+        "line": 26,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/platform.ts#L26"
       },
       {
         "name": "systemInfo",
@@ -3645,7 +4040,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/systemInfo.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/systemInfo.ts#L7"
       },
       {
         "name": "NODE_VERSION",
@@ -3653,7 +4049,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/version.ts",
-        "line": 13
+        "line": 13,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/version.ts#L13"
       },
       {
         "name": "NODE_MAJOR_VERSION",
@@ -3661,7 +4058,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/version.ts",
-        "line": 27
+        "line": 27,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/version.ts#L27"
       },
       {
         "name": "RUNTIME_VERSIONS",
@@ -3669,7 +4067,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/system/src/version.ts",
-        "line": 37
+        "line": 37,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/system/src/version.ts#L37"
       }
     ],
     "@js-utils-kit/types": [
@@ -3679,7 +4078,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/ArchiveFormat.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/ArchiveFormat.ts#L4"
       },
       {
         "name": "ArchiverOptions",
@@ -3687,7 +4087,8 @@
         "exportKind": "unknown",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/ArchiverOptions.ts",
-        "line": 3
+        "line": 3,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/ArchiverOptions.ts#L3"
       },
       {
         "name": "CreateArchiveOptions",
@@ -3695,7 +4096,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/CreateArchiveOptions.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/CreateArchiveOptions.ts#L7"
       },
       {
         "name": "Environment",
@@ -3703,7 +4105,8 @@
         "exportKind": "variable",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/Environment.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/Environment.ts#L14"
       },
       {
         "name": "Falsy",
@@ -3711,7 +4114,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/Falsy.ts",
-        "line": 13
+        "line": 13,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/Falsy.ts#L13"
       },
       {
         "name": "Hour",
@@ -3719,7 +4123,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/Hour.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/Hour.ts#L7"
       },
       {
         "name": "HttpStatusCode",
@@ -3727,7 +4132,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/HttpStatusCode.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/HttpStatusCode.ts#L15"
       },
       {
         "name": "JsonReplacer",
@@ -3735,7 +4141,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/json.ts",
-        "line": 12
+        "line": 12,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/json.ts#L12"
       },
       {
         "name": "MinuteOrSecond",
@@ -3743,7 +4150,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/MinuteOrSecond.ts",
-        "line": 7
+        "line": 7,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/MinuteOrSecond.ts#L7"
       },
       {
         "name": "PackageJson",
@@ -3751,7 +4159,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/PackageJson.ts",
-        "line": 56
+        "line": 56,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/PackageJson.ts#L56"
       },
       {
         "name": "PlainObject",
@@ -3759,7 +4168,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/PlainObject.ts",
-        "line": 2
+        "line": 2,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/PlainObject.ts#L2"
       },
       {
         "name": "Trim",
@@ -3767,7 +4177,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/Trim.ts",
-        "line": 4
+        "line": 4,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/Trim.ts#L4"
       },
       {
         "name": "CommitTypeMeta",
@@ -3775,7 +4186,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/commit/types.ts",
-        "line": 6
+        "line": 6,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/commit/types.ts#L6"
       },
       {
         "name": "DeepPartial",
@@ -3783,7 +4195,8 @@
         "exportKind": "type",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/types/src/utils/DeepPartial.ts",
-        "line": 1
+        "line": 1,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/types/src/utils/DeepPartial.ts#L1"
       }
     ],
     "@js-utils-kit/valid": [
@@ -3793,7 +4206,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/endsWithPunctuation.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/endsWithPunctuation.ts#L15"
       },
       {
         "name": "hasWhitespace",
@@ -3801,7 +4215,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/hasWhitespace.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/hasWhitespace.ts#L14"
       },
       {
         "name": "isAlphabetic",
@@ -3809,7 +4224,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isAlphabetic.ts",
-        "line": 15
+        "line": 15,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isAlphabetic.ts#L15"
       },
       {
         "name": "isArray",
@@ -3817,7 +4233,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isArray.ts",
-        "line": 18
+        "line": 18,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isArray.ts#L18"
       },
       {
         "name": "isCamelCase",
@@ -3825,7 +4242,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isCamelCase.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isCamelCase.ts#L16"
       },
       {
         "name": "isDefined",
@@ -3833,7 +4251,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isDefined.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isDefined.ts#L14"
       },
       {
         "name": "isEmail",
@@ -3841,7 +4260,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isEmail.ts",
-        "line": 38
+        "line": 38,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isEmail.ts#L38"
       },
       {
         "name": "isEmpty",
@@ -3849,7 +4269,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isEmpty.ts",
-        "line": 30
+        "line": 30,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isEmpty.ts#L30"
       },
       {
         "name": "isEmptyObject",
@@ -3857,7 +4278,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isEmptyObject.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isEmptyObject.ts#L16"
       },
       {
         "name": "isFalsy",
@@ -3865,7 +4287,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isFalsy.ts",
-        "line": 31
+        "line": 31,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isFalsy.ts#L31"
       },
       {
         "name": "isKebabCase",
@@ -3873,7 +4296,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isKebabCase.ts",
-        "line": 28
+        "line": 28,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isKebabCase.ts#L28"
       },
       {
         "name": "isLowerCase",
@@ -3881,7 +4305,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isLowerCase.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isLowerCase.ts#L14"
       },
       {
         "name": "isNonEmptyObject",
@@ -3889,7 +4314,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isNonEmptyObject.ts",
-        "line": 16
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isNonEmptyObject.ts#L16"
       },
       {
         "name": "isNonEmptyString",
@@ -3897,7 +4323,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isNonEmptyString.ts",
-        "line": 27
+        "line": 27,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isNonEmptyString.ts#L27"
       },
       {
         "name": "isNumericString",
@@ -3905,7 +4332,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isNumericString.ts",
-        "line": 29
+        "line": 29,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isNumericString.ts#L29"
       },
       {
         "name": "isObject",
@@ -3913,7 +4341,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isObject.ts",
-        "line": 17
+        "line": 17,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isObject.ts#L17"
       },
       {
         "name": "isPascalCase",
@@ -3921,7 +4350,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isPascalCase.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isPascalCase.ts#L14"
       },
       {
         "name": "isSnakeCase",
@@ -3929,7 +4359,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isSnakeCase.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isSnakeCase.ts#L14"
       },
       {
         "name": "isString",
@@ -3937,7 +4368,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isString.ts",
-        "line": 25
+        "line": 25,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isString.ts#L25"
       },
       {
         "name": "isTruthy",
@@ -3945,7 +4377,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isTruthy.ts",
-        "line": 31
+        "line": 31,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isTruthy.ts#L31"
       },
       {
         "name": "isUndefinedOrNull",
@@ -3953,7 +4386,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isUndefinedOrNull.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isUndefinedOrNull.ts#L14"
       },
       {
         "name": "isUpperCase",
@@ -3961,7 +4395,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isUpperCase.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isUpperCase.ts#L14"
       },
       {
         "name": "isURL",
@@ -3969,7 +4404,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/isURL.ts",
-        "line": 17
+        "line": 17,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/isURL.ts#L17"
       },
       {
         "name": "startsWithUppercase",
@@ -3977,7 +4413,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/valid/src/startsWithUppercase.ts",
-        "line": 14
+        "line": 14,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/valid/src/startsWithUppercase.ts#L14"
       }
     ]
   }
