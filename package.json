@@ -55,7 +55,7 @@
     "figlet": "catalog:"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.5",
+    "@biomejs/biome": "^2.5.11",
     "@changesets/changelog-github": "^0.7.0",
     "@changesets/cli": "^2.31.1",
     "@changesets/parse": "^0.4.3",
