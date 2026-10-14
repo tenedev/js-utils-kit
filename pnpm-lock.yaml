@@ -63,8 +63,8 @@ importers:
         specifier: ^4.0.3
         version: 4.0.3
       happy-dom:
-        specifier: ^20.11.1
-        version: 20.11.1
+        specifier: ^20.14.6
+        version: 20.14.6
       husky:
         specifier: ^9.1.7
         version: 9.1.7
@@ -106,7 +106,7 @@ importers:
         version: 0.1.0
       vitest:
         specifier: ^4.1.10
-        version: 4.1.10(@types/node@25.9.9)(@vitest/coverage-v8@4.1.11)(happy-dom@20.11.1)(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0))
+        version: 4.1.10(@types/node@25.9.9)(@vitest/coverage-v8@4.1.11)(happy-dom@20.14.6)(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0))
       zylog:
         specifier: ^0.1.0
         version: 0.1.0
@@ -2178,10 +2178,10 @@ packages:
       }
     engines: { node: '>=6.0' }
 
-  happy-dom@20.11.1:
+  happy-dom@20.14.6:
     resolution:
       {
-        integrity: sha512-XSt8tMzbW9ymE7687xztkO1ckR7qJNQ3LywY9vlYGhGi3zXrGBHuUo2Cl1ztZaICW+1eAGdkLbj6iwVqDT33kg==,
+        integrity: sha512-5DDsf4QmEIlRL6NkCv/fxSjYHHkZceL/IaYQdJc2h3G7DRTEai++VTjbfL0LB9geW2VrA3+vrjF3Efx+OTtX0Q==,
       }
     engines: { node: '>=20.0.0' }
 
@@ -4200,7 +4200,7 @@ snapshots:
       obug: 2.1.4
       std-env: 4.0.0
       tinyrainbow: 3.1.0
-      vitest: 4.1.10(@types/node@25.9.9)(@vitest/coverage-v8@4.1.11)(happy-dom@20.11.1)(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0))
+      vitest: 4.1.10(@types/node@25.9.9)(@vitest/coverage-v8@4.1.11)(happy-dom@20.14.6)(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0))
 
   '@vitest/expect@4.1.10':
     dependencies:
@@ -4656,7 +4656,7 @@ snapshots:
       section-matter: 1.0.0
       strip-bom-string: 1.0.0
 
-  happy-dom@20.11.1:
+  happy-dom@20.14.6:
     dependencies:
       '@types/node': 25.9.9
       '@types/whatwg-mimetype': 3.0.2
@@ -5327,7 +5327,7 @@ snapshots:
       - '@emnapi/core'
       - '@emnapi/runtime'
 
-  vitest@4.1.10(@types/node@25.9.9)(@vitest/coverage-v8@4.1.11)(happy-dom@20.11.1)(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0)):
+  vitest@4.1.10(@types/node@25.9.9)(@vitest/coverage-v8@4.1.11)(happy-dom@20.14.6)(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0)):
     dependencies:
       '@vitest/expect': 4.1.10
       '@vitest/mocker': 4.1.10(vite@8.0.3(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@types/node@25.9.9)(jiti@2.7.0)(yaml@2.9.0))
@@ -5352,7 +5352,7 @@ snapshots:
     optionalDependencies:
       '@types/node': 25.9.9
       '@vitest/coverage-v8': 4.1.11(vitest@4.1.10)
-      happy-dom: 20.11.1
+      happy-dom: 20.14.6
     transitivePeerDependencies:
       - msw
 
