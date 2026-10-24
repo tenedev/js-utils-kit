@@ -43,6 +43,7 @@ jobs:
         with:
           version: pnpm run changeset:version
           publish: pnpm run changeset:publish
+      - run: echo '${{ toJSON(steps.changesets.outputs) }}'
 
   deploy:
     needs: publish
