@@ -4,4 +4,4 @@ packages:
 
 catalog:
   archiver: ^7.0.1
-  figlet: ^1.11.4
+  figlet: ^1.12.0
