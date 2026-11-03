@@ -1,5 +1,17 @@
 # @js-utils-kit/regex
 
+## 0.3.1
+
+### Patch Changes
+
+- [`9b26c5c`](https://github.com/tenedev/js-utils-kit/commit/9b26c5cf209c28b01fda65e170d8894ee4584193) Thanks [@tenedev](https://github.com/tenedev)! - Fix a Regular Expression Denial of Service (ReDoS) vulnerability in HTML tag matching patterns.
+
+  - Update "HTML_TAG_REGEX" to prevent quadratic-time execution on malformed input.
+  - Update "STRICT_HTML_TAG_REGEX" with the same safe character-class restriction.
+  - Prevent repeated "<" characters from being consumed during unsuccessful matching attempts.
+  - Add regression tests covering malformed tags, incomplete tags, and adversarial input.
+  - Preserve existing HTML tag and React fragment matching behavior.
+
 ## 0.3.0
 
 ### Minor Changes

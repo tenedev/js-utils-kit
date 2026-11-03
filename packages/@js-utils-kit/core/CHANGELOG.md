@@ -1,5 +1,15 @@
 # @js-utils-kit/core
 
+## 5.2.1
+
+### Patch Changes
+
+- Updated dependencies [[`9b26c5c`](https://github.com/tenedev/js-utils-kit/commit/9b26c5cf209c28b01fda65e170d8894ee4584193)]:
+  - @js-utils-kit/regex@0.3.1
+  - @js-utils-kit/pm@0.4.2
+  - @js-utils-kit/valid@3.0.3
+  - @js-utils-kit/object@2.0.3
+
 ## 5.2.0
 
 ### Minor Changes

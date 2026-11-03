@@ -1,5 +1,12 @@
 # @js-utils-kit/object
 
+## 2.0.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @js-utils-kit/valid@3.0.3
+
 ## 2.0.2
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @js-utils-kit/valid
 
+## 3.0.3
+
+### Patch Changes
+
+- Updated dependencies [[`9b26c5c`](https://github.com/tenedev/js-utils-kit/commit/9b26c5cf209c28b01fda65e170d8894ee4584193)]:
+  - @js-utils-kit/regex@0.3.1
+
 ## 3.0.2
 
 ### Patch Changes
