@@ -31,6 +31,27 @@ describe('HTML_TAG_REGEX', () => {
     expect('<>'.match(HTML_TAG_REGEX)).toEqual(['<>']);
     expect('</>'.match(HTML_TAG_REGEX)).toEqual(['</>']);
   });
+
+  it('does not match incomplete tags', () => {
+    expect('<div'.match(HTML_TAG_REGEX)).toBeNull();
+    expect('</div'.match(HTML_TAG_REGEX)).toBeNull();
+  });
+
+  it('does not consume nested opening characters', () => {
+    expect('<<div>>'.match(HTML_TAG_REGEX)).toEqual(['<div>']);
+  });
+
+  it('handles repeated opening characters', () => {
+    const input = '<'.repeat(100_000);
+
+    expect(input.match(HTML_TAG_REGEX)).toBeNull();
+  });
+
+  it('handles repeated incomplete tags', () => {
+    const input = '<script'.repeat(10_000);
+
+    expect(input.match(HTML_TAG_REGEX)).toBeNull();
+  });
 });
 
 describe('STRICT_HTML_TAG_REGEX', () => {
@@ -66,5 +87,26 @@ describe('STRICT_HTML_TAG_REGEX', () => {
       '</span>',
       '</div>',
     ]);
+  });
+
+  it('does not match incomplete tags', () => {
+    expect('<div'.match(STRICT_HTML_TAG_REGEX)).toBeNull();
+    expect('</div'.match(STRICT_HTML_TAG_REGEX)).toBeNull();
+  });
+
+  it('does not consume nested opening characters', () => {
+    expect('<<div>>'.match(STRICT_HTML_TAG_REGEX)).toEqual(['<div>']);
+  });
+
+  it('handles repeated opening characters', () => {
+    const input = '<'.repeat(100_000);
+
+    expect(input.match(STRICT_HTML_TAG_REGEX)).toBeNull();
+  });
+
+  it('handles repeated incomplete tags', () => {
+    const input = '<a'.repeat(10_000);
+
+    expect(input.match(STRICT_HTML_TAG_REGEX)).toBeNull();
   });
 });

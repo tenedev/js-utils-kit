@@ -15,7 +15,7 @@
  * // "Hello"
  * ```
  */
-export const HTML_TAG_REGEX = /<\/?[^>]*>/g;
+export const HTML_TAG_REGEX = /<\/?[^<>]*>/g;
 
 /**
  * Matches standard HTML tags whose tag names begin with a letter.
@@ -34,4 +34,4 @@ export const HTML_TAG_REGEX = /<\/?[^>]*>/g;
  * // null
  * ```
  */
-export const STRICT_HTML_TAG_REGEX = /<\/?[a-z][^>]*>/gi;
+export const STRICT_HTML_TAG_REGEX = /<\/?[a-z][^<>]*>/gi;
