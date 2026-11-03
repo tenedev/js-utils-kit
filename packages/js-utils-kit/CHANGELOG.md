@@ -1,5 +1,12 @@
 # Changelog
 
+## 5.2.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @js-utils-kit/core@5.2.1
+
 ## 5.2.0
 
 ### Minor Changes
