@@ -33,8 +33,8 @@ importers:
         specifier: ^2.31.1
         version: 2.31.1(@types/node@25.9.9)
       '@changesets/parse':
-        specifier: ^0.4.3
-        version: 0.4.3
+        specifier: ^1.0.0
+        version: 1.0.0
       '@clack/prompts':
         specifier: ^1.7.0
         version: 1.7.0
@@ -468,6 +468,13 @@ packages:
         integrity: sha512-ZDmNc53+dXdWEv7fqIUSgRQOLYoUom5Z40gmLgmATmYR9NbL6FJJHwakcCpzaeCy+1D0m0n7mT4jj2B/MQPl7A==,
       }
 
+  '@changesets/parse@1.0.0':
+    resolution:
+      {
+        integrity: sha512-P0iaMb9p9CRYZiTgAllEIF9AUMQHIy1G72tKlcIqJp61icZSsKQNiOPdxAMZG8m/DvZwt/oz5xEbTpike//dWg==,
+      }
+    engines: { node: ^22.11 || ^24 || >=26 }
+
   '@changesets/pre@2.0.2':
     resolution:
       {
@@ -497,6 +504,13 @@ packages:
       {
         integrity: sha512-rKQcJ+o1nKNgeoYRHKOS07tAMNd3YSN0uHaJOZYjBAgxfV7TUE7JE+z4BzZdQwb5hKaYbayKN5KrYV7ODb2rAA==,
       }
+
+  '@changesets/types@7.0.0':
+    resolution:
+      {
+        integrity: sha512-c5GoiQyt3pxiXjrWSNoP8/GRf4kG+VnKzovx1OQM8dYYALlSwgedmkPmJ+ZqGxqwg9D3Bkj85Uo4KLd5BN3A0w==,
+      }
+    engines: { node: ^22.11 || ^24 || >=26 }
 
   '@changesets/write@0.4.0':
     resolution:
@@ -3761,6 +3775,11 @@ snapshots:
       '@changesets/types': 6.1.0
       js-yaml: 4.1.1
 
+  '@changesets/parse@1.0.0':
+    dependencies:
+      '@changesets/types': 7.0.0
+      yaml: 2.9.0
+
   '@changesets/pre@2.0.2':
     dependencies:
       '@changesets/errors': 0.2.0
@@ -3786,6 +3805,8 @@ snapshots:
   '@changesets/types@4.1.0': {}
 
   '@changesets/types@6.1.0': {}
+
+  '@changesets/types@7.0.0': {}
 
   '@changesets/write@0.4.0':
     dependencies:
