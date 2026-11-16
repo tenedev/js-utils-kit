@@ -9,12 +9,14 @@
  * capitalize("world"); // "World"
  * capitalize(""); // ""
  * capitalize("a"); // "A"
+ * capitalize("élan"); // "Élan"
+ * capitalize("über"); // "Über"
  * ```
  */
 export function capitalize(
   /** The string to capitalize */
   value: string,
 ): string {
-  // value.charAt(0).toUpperCase + value.slice(1)
-  return value.replace(/^\w/, (c) => c.toUpperCase());
+  // value.charAt(0).toUpperCase() + value.slice(1)
+  return value.replace(/^\p{L}/u, (c) => c.toUpperCase());
 }
