@@ -1,7 +1,7 @@
 {
   "name": "@js-utils-kit/string",
   "displayName": "Strings",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "String utilities",
   "keywords": [
     "string",
