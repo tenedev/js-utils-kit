@@ -17,6 +17,6 @@ export function countWords(
   str: string,
 ): number {
   const value = str.trim();
-  
+
   return value ? splitString(value).length : 0;
 }
