@@ -1,7 +1,9 @@
 ---
-"@js-utils-kit/pm": patch
-"@js-utils-kit/string": patch
-"@repo/test-utils": patch
+'@js-utils-kit/pm': patch
+'@js-utils-kit/string': patch
+'@repo/test-utils': patch
+'@js-utils-kit/core': patch
+js-utils-kit: patch
 ---
 
 Improved string utilities and package name validation:
