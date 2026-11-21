@@ -133,4 +133,8 @@ export const INVALID_PACKAGE_NAMES = [
 
   // length overflow
   'a'.repeat(215),
+
+  // npm reserved names
+  'node_modules',
+  'favicon.ico',
 ] as const;

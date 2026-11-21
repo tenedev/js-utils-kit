@@ -1,12 +1,12 @@
 {
   "summary": {
-    "totalExports": 437,
+    "totalExports": 438,
     "deprecatedExports": 0,
     "classExports": 0,
     "functionExports": 89,
-    "variableExports": 322,
+    "variableExports": 323,
     "typeExports": 25,
-    "valueExports": 411,
+    "valueExports": 412,
     "totalPackages": 14
   },
   "exportNames": {
@@ -339,6 +339,7 @@
       "REGEX_WHITESPACE_CLASS",
       "REGEX_WORD_CLASS",
       "REGISTERED_SIGN",
+      "RESERVED_PACKAGE_NAMES",
       "RIGHT_ANGLE_BRACKET",
       "RIGHT_ANGLE_QUOTE",
       "RIGHT_ARROW",
@@ -3485,8 +3486,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/pm/src/valid.ts",
-        "line": 24,
-        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/valid.ts#L24"
+        "line": 33,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/valid.ts#L33"
       },
       {
         "name": "MAX_NPM_PACKAGE_NAME_LENGTH",
@@ -3496,6 +3497,15 @@
         "filePath": "packages/@js-utils-kit/pm/src/valid.ts",
         "line": 5,
         "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/valid.ts#L5"
+      },
+      {
+        "name": "RESERVED_PACKAGE_NAMES",
+        "declarationKind": "VariableDeclaration",
+        "exportKind": "variable",
+        "deprecated": false,
+        "filePath": "packages/@js-utils-kit/pm/src/valid.ts",
+        "line": 8,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/pm/src/valid.ts#L8"
       },
       {
         "name": "buildPmCommand",
@@ -3732,8 +3742,8 @@
         "exportKind": "function",
         "deprecated": false,
         "filePath": "packages/@js-utils-kit/string/src/capitalize.ts",
-        "line": 14,
-        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/capitalize.ts#L14"
+        "line": 16,
+        "sourceUrl": "https://github.com/tenedev/js-utils-kit/blob/main/packages/@js-utils-kit/string/src/capitalize.ts#L16"
       },
       {
         "name": "countChars",
