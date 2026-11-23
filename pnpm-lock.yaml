@@ -1111,6 +1111,7 @@ packages:
         integrity: sha512-Px4dUpF+/lbJkzbCBcbImG37nSx/ncFw/L+FnPJSwFISpnroECsw0vV8v7ndjHEapVquewIdy08Tffx+BhXPOA==,
       }
     engines: { node: '>=14' }
+    deprecated: 'This package is no longer maintained. Please migrate to @pegora/prettier-config: https://github.com/pegoraio/prettier-config'
     peerDependencies:
       prettier: 3.x
 
@@ -1120,6 +1121,7 @@ packages:
         integrity: sha512-PMeqYr+xgoipb8CsOWCdHskWTgRpKNEfel5ehnAe5HcIvcgoDGrBa09ly3UNz3vMNp+KIM6gMmViSrhukrRVnw==,
       }
     engines: { node: '>=14.17' }
+    deprecated: 'This package is no longer maintained. Please migrate to @pegora/tsconfig: https://github.com/pegoraio/tsconfig'
     peerDependencies:
       typescript: ^7.0.0
 
@@ -3562,18 +3564,21 @@ packages:
       {
         integrity: sha512-trBzFsSa6k32vzNUCH6pFhAoTzWD/NifSYOIQ/6v14vXKh7TRhd2vDNIwRguGdXvcyfBNEEGcsfxFHrnJbS+FQ==,
       }
+    deprecated: 'Yuku is now one package with one core. Use "yuku" instead: https://yuku.fyi/javascript/. Existing installs keep working but get no more fixes.'
 
   yuku-codegen@0.8.0:
     resolution:
       {
         integrity: sha512-f82SDo8moLRymtdYN7/cz2yRbWE6Pmbmph+mLj24QkIR8ASG/c2nETdHzBhV/3rR/r8K+qmy7+JqQV3thHAm8g==,
       }
+    deprecated: 'Yuku is now one package with one core. Use "yuku" instead: https://yuku.fyi/javascript/. Existing installs keep working but get no more fixes.'
 
   yuku-parser@0.8.0:
     resolution:
       {
         integrity: sha512-obrazyE8Cyh79xTQS9wv44khnhvkXG1CDSSy0bg+Pjjla+iXkKXK2b6+LTYXSN3qvVfQxc0MN5qhNKYr9sl3Zw==,
       }
+    deprecated: 'Yuku is now one package with one core. Use "yuku" instead: https://yuku.fyi/javascript/. Existing installs keep working but get no more fixes.'
 
   zip-stream@6.0.1:
     resolution:
