@@ -19,7 +19,7 @@
     "url": "https://tene.vercel.app"
   },
   "private": true,
-  "packageManager": "pnpm@11.28.13",
+  "packageManager": "pnpm@12.23.0",
   "files": [
     "dist"
   ],
